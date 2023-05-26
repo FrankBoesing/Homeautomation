@@ -1,0 +1,13 @@
+{
+  "name": "Homeautomation",
+  "keywords": "Homeautomation, Alexa, Amazon, Philips, Hue, Wemo, Belkin, Light, Relay, Switch, Plug",
+  "description": "Emulate lights, simple or with brightness, brightness & color, relais - even all simultanously",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrankBoesing/Homeautomation.git"
+  },
+  "version": "1.00",
+  "exclude": [],
+  "frameworks": "arduino",
+  "platforms": "esp8266, esp32"
+}

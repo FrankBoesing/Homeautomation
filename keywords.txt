@@ -1,0 +1,27 @@
+
+# Methods
+add	KEYWORD2
+handle	KEYWORD2
+size	KEYWORD2
+onGetState	KEYWORD2
+onSetState	KEYWORD2
+type	KEYWORD2
+id	KEYWORD2
+name	KEYWORD2
+getState	KEYWORD2
+setState	KEYWORD2
+getBrightness	KEYWORD2
+setBrightness	KEYWORD2
+getHue	KEYWORD2
+setHue	KEYWORD2
+getSat	KEYWORD2
+setSat	KEYWORD2
+
+# Type names
+EdeviceType  KEYWORD1	DATA_TYPE
+Homeautomation  KEYWORD1	DATA_TYPE
+HomeautomationDevice	KEYWORD1	DATA_TYPE
+Switch	KEYWORD1	DATA_TYPE
+Light	KEYWORD1	DATA_TYPE
+Light_Brightness	KEYWORD1	DATA_TYPE
+Light_BriHueSat	KEYWORD1	DATA_TYPE
